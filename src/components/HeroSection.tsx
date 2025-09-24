@@ -23,7 +23,7 @@ const HeroSection = () => {
                 <div className="w-6 h-6 bg-gradient-to-r from-accent to-primary rounded-full border-2 border-white"></div>
                 <div className="w-6 h-6 bg-gradient-to-r from-primary to-accent rounded-full border-2 border-white"></div>
               </div>
-              <span className="text-sm font-medium text-muted-foreground">
+              <span className="mt-4 text-sm font-medium text-muted-foreground">
                 +500 متعلم نشط
               </span>
             </div>
