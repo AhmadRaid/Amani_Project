@@ -20,7 +20,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center gap-2">
                 <img
-                  src="http://localhost:8080/logo-ishraqat-om.jpg"
+                  src="https://amani-project.vercel.app/logo-ishraqat-om.jpg"
                   alt="شعار إشراقة أم"
                   className="w-12 h-12 object-contain rounded-lg shadow"
                   style={{ background: 'white' }}
