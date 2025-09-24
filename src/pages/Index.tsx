@@ -26,7 +26,6 @@ const Index = () => {
         <TestimonialsSection />
         <CTASection />
       </main>
-      <Footer />
     </div>
   );
 };
